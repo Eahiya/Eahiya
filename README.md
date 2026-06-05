@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 👯 I’m looking to collaborate on [BonYatra Travel](https://bonyatra-travel.netlify.app/)
-
 - 👨‍💻 All of my projects are available at [https://eahiya-portfolio.netlify.app/](https://eahiya-portfolio.netlify.app/)
 
 - 📫 How to reach me **eahiyaazad@gmail.com**
