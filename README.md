@@ -2,6 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/Eahiya/Eahiya/main/assets/banner.svg" alt="Eahiya A - AI & ML Engineer" width="100%" />
 
+<img src="https://raw.githubusercontent.com/Eahiya/Eahiya/main/assets/lights-out.svg" alt="Lights out and away we go" width="100%" />
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=700&color=00D4FF&center=true&vCenter=true&width=780&lines=I+build+ML+systems+you+can+actually+click;F1+pit-strategy+AI%2C+live+and+deployed;5+live+projects+%7C+5+certifications+%7C+1+goal%3A+ship;Open+to+SWE+%2F+ML+internships" alt="Typing SVG" />
 </a>
@@ -11,6 +13,7 @@
 <a href="https://eahiya-portfolio.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit-00D4FF?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 <a href="https://linkedin.com/in/eahiya-azad-1428b6324"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:eahiyaazad@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Eahiya/Eahiya/raw/main/Eahiya_A_Resume.pdf"><img src="https://img.shields.io/badge/RESUME-Download-22C55E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
 
 </div>
 
@@ -38,6 +41,8 @@
 </div>
 
 An AI-powered Formula 1 strategy platform for **real-time race simulation and pit-stop optimisation**. It takes the race state, runs it through a machine-learning model, and recommends when to pit.
+
+📖 **[Read how it works: the full write-up](https://github.com/Eahiya/Eahiya/blob/main/F1-STRATEGY.md)**
 
 ```mermaid
 flowchart LR
