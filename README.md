@@ -1,10 +1,10 @@
-<!-- ======================= HERO ======================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=EAHIYA%20A&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20%26%20ML%20Engineer%20%E2%80%A2%20I%20turn%20data%20into%20decisions&descAlignY=62&descSize=20" width="100%" />
+<h1>🏎️ EAHIYA A</h1>
+<h3>AI & ML Engineer · Predictive Analytics · Network Simulation · NLP</h3>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=00D4FF&center=true&vCenter=true&width=760&lines=Building+AI+that+predicts+before+things+break+%F0%9F%94%AE;Shipped+an+F1+pit-strategy+platform+with+React+%2B+FastAPI+%F0%9F%8F%8E%EF%B8%8F;IBM+Data+Science+Certified+%E2%80%A2+JHU+ML+%E2%80%A2+DeepLearning.AI+LLMs;Looking+for+SWE+%2F+ML+internships+%E2%80%94+let%27s+talk+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=700&color=00D4FF&center=true&vCenter=true&width=780&lines=Building+AI+that+predicts+before+things+break;Shipped+an+F1+pit-strategy+platform+with+React+%2B+FastAPI;IBM+Data+Science+%7C+JHU+Practical+ML+%7C+GenAI+with+LLMs;Looking+for+SWE+%2F+ML+internships.+Let%27s+talk." alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -12,11 +12,6 @@
 <a href="https://eahiya-portfolio.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit-00D4FF?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 <a href="https://linkedin.com/in/eahiya-azad-1428b6324"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:eahiyaazad@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/STATUS-Open%20to%20Internships-2ea44f?style=for-the-badge" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Eahiya&label=Profile%20views&color=0e75b6&style=flat" />
 
 </div>
 
@@ -56,52 +51,92 @@ class Eahiya:
 
 ---
 
-## 🚀 Projects (all live, all deployed)
+## 🚀 Projects
 
-### 🧠 AI Career Intelligence · ATS Score Checker
-> ML + NLP platform that scores ATS compatibility, recruiter alignment and career positioning, then generates optimisation recommendations.
+> Every project below is deployed. Click **Live Demo** and try it.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 AI Career Intelligence
+**ATS score checker with NLP**
+
+Evaluates ATS compatibility, recruiter alignment and career positioning, then generates optimisation recommendations.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-8A2BE2?style=flat-square)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square)
-[![Live](https://img.shields.io/badge/▶%20Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://neurahire-career-intelligence.vercel.app/)
+![ML](https://img.shields.io/badge/ML-FF6F00?style=flat-square)
 
-### 🏎️ Formula 1 Optimal Pit Strategy Predictor
-> AI-powered strategy platform for real-time race simulation and pit-stop optimisation.
+[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://neurahire-career-intelligence.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏎️ F1 Optimal Pit Strategy
+**Race simulation and pit-stop optimiser**
+
+AI-powered strategy platform for real-time race simulation and pit-stop optimisation.
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square)
-[![Live](https://img.shields.io/badge/▶%20Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://f1-strategy-platform.vercel.app/login)
+![ML](https://img.shields.io/badge/ML-FF6F00?style=flat-square)
+
+[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://f1-strategy-platform.vercel.app/login)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚕 Uberlytics
+**Ride analytics, Greater Delhi**
+
+Data cleaning, exploratory analysis and visual storytelling of ride patterns in an interactive dashboard.
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-34A853?style=flat-square)
+
+[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://uberlytics.netlify.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 Caralyst
+**Automotive operating system**
+
+Vehicle discovery, comparison, dynamic search and personalised user features in one web platform.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://caralyst.netlify.app/)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🔧 How the F1 strategy platform works (click to expand)</b></summary>
 
 ```mermaid
 flowchart LR
     A[🏁 Race State<br/>lap, tyres, gaps] --> B[⚛️ React Dashboard]
     B --> C[⚡ FastAPI Backend]
     C --> D[🧠 ML Strategy Model]
-    D --> E[📊 Pit Window + Compound Recommendation]
+    D --> E[📊 Pit Window and Compound Recommendation]
     E --> B
 ```
 
-### 🚕 Uberlytics · Ride Analytics of Greater Delhi
-> Data cleaning, exploratory analysis and visual storytelling of ride patterns in a dashboard.
+</details>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-34A853?style=flat-square)
-[![Live](https://img.shields.io/badge/▶%20Live%20Demo-000000?style=flat-square&logo=netlify&logoColor=white)](https://uberlytics.netlify.app/)
+<details>
+<summary><b>✅ Also built: Stelvio, a productivity partner</b></summary>
 
-### 🚗 Caralyst · Automotive Operating System
-> Vehicle discovery, comparison, dynamic search and personalised user features in one web platform.
+Browser-based dashboard with task tracking, a Pomodoro timer and usage analytics.
+[Live Demo](https://stelvio-todolist.netlify.app/)
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-[![Live](https://img.shields.io/badge/▶%20Live%20Demo-000000?style=flat-square&logo=netlify&logoColor=white)](https://caralyst.netlify.app/)
-
-### ✅ Stelvio · Productivity Partner
-> Browser-based dashboard with task tracking, a Pomodoro timer and usage analytics.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-[![Live](https://img.shields.io/badge/▶%20Live%20Demo-000000?style=flat-square&logo=netlify&logoColor=white)](https://stelvio-todolist.netlify.app/)
+</details>
 
 ---
 
@@ -109,25 +144,29 @@ flowchart LR
 
 <div align="center">
 
-**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=py,cpp,java,mysql,js,html,css&perline=7" />
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**ML & Data**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,pytorch,powerbi&perline=5" />
-
-**Web & Backend**
-
-<img src="https://skillicons.dev/icons?i=react,fastapi,tailwind,bootstrap,nodejs,sqlite,mongodb&perline=7" />
-
-**Tools & Deployment**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,linux&perline=6" />
-
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 </div>
 
@@ -152,24 +191,14 @@ flowchart LR
 ## 📊 GitHub Telemetry
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Eahiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eahiya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<img src="https://streak-stats.demolab.com?user=Eahiya&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eahiya&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Eahiya&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Eahiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eahiya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
-
----
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Eahiya/Eahiya/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Eahiya/Eahiya/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
 </div>
 
 ---
@@ -197,9 +226,5 @@ flowchart LR
 <a href="https://twitter.com/eahiyaazad"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://instagram.com/eahiyaazad"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="mailto:eahiyaazad@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
 
 </div>
